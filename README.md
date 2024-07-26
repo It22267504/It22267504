@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to My GitHub Profile!
+
+## Hello! I'm Tharushi 👋, a passionate developer working on innovative and user-friendly applications. 
+ 
 
 <!--
 **It22267504/It22267504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
